@@ -8,4 +8,6 @@
 
 echo 'hello';
 
+var_dump(123);
+
 phpinfo();
