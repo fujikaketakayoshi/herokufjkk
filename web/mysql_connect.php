@@ -13,7 +13,7 @@
 
 
 
-$dbh = mysqli_connect('mysql:host=us-cdbr-east-03.cleardb.com', 'bb1251ea55e1d8', '93abc74', 'heroku_053601649a23275');
+$dbh = mysqli_connect('us-cdbr-east-03.cleardb.com', 'bb1251ea55e1d8', '93abc74', 'heroku_053601649a23275');
 
 
 var_dump($dbh);
