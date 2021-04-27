@@ -16,3 +16,5 @@ $dbh = new PDO($dsn, $db_user, $db_pass);
 
 
 var_dump($dbh);
+
+var_dump($_ENV);
