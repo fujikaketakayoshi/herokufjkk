@@ -1,2 +1,5 @@
 vendor/
 .env
+.DS_Store
+.gitignore
+mysql_connect.txt
