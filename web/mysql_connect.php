@@ -8,4 +8,6 @@ $dbh = new PDO($dsn, $db_user, $db_pass);
 
 var_dump($dbh);
 
+var_dump($_SERVER);
+
 // var_dump($_ENV['DB_HOST'], $_ENV['DB_USERNAME'], $_ENV['DB_PASSWORD'], $_ENV['DB_DATABASE']);
